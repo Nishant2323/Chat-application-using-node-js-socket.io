@@ -1,0 +1,73 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.logo img
+{
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    border-radius: 100px;
+    float: left;
+    padding: 3px;
+}
+.container
+{
+    
+    max-width: 400px;
+    background-color: white;
+    margin: auto;
+    height: 500px;
+    padding: 10px;
+    overflow:scroll;
+    margin-top: 5%;
+    border: solid 2px black;
+}
+.message
+{ 
+    text-align: center;
+    width: 70px;
+    border-radius: 10px;
+    margin: 10px;
+   
+}
+.left
+{
+    position: relative;
+    left: 319px;
+    background-color:#F8F8FF;
+    margin-top: 70px;
+}
+
+.right{
+    background-color: #00BFFF;
+    position: relative;
+    right: 12px;
+
+}
+
+.send{
+    text-align: center;
+}
+
+#sendinp{
+    height: 50px;
+    width: 370px;
+    border-radius: 10px;
+}
+
+.send button{
+    height: 40px;
+    width: 45px;
+    border-radius: 90px;
+}
+h1{
+    margin-top: 5px;
+    padding: 28px;
+font-family: 'Montserrat', sans-serif;
+}
+ .logo{
+    
+    background-color: gray;
+}
